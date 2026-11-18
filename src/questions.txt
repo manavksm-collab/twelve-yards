@@ -1,0 +1,244 @@
+#easy
+Space|Which planet is known as the Red Planet?|Mars|Venus|Jupiter|Mercury
+Maths|How many sides does a hexagon have?|6|5|7|8
+Geography|What is the largest ocean on Earth?|Pacific|Atlantic|Indian|Arctic
+Science|Which gas do plants take in from the air to make food?|Carbon dioxide|Oxygen|Nitrogen|Helium
+Geography|What is the capital of Japan?|Tokyo|Osaka|Kyoto|Seoul
+Sport|How many players does a football team have on the pitch?|11|10|12|9
+Science|At what temperature does water freeze, in Celsius?|0 °C|32 °C|−10 °C|4 °C
+Art|Who painted the Mona Lisa?|Leonardo da Vinci|Michelangelo|Raphael|Vincent van Gogh
+Nature|What is the largest animal on Earth?|Blue whale|African elephant|Whale shark|Sperm whale
+Geography|On which continent is most of Egypt?|Africa|Asia|Europe|Oceania
+Geography|How many continents are there, by the most common count?|7|5|6|8
+Music|How many keys does a standard modern piano have?|88|76|92|64
+Geography|In which country are the Pyramids of Giza?|Egypt|Mexico|Peru|Sudan
+Art|Which colour do you get by mixing blue and yellow paint?|Green|Purple|Orange|Brown
+Maths|How many days are there in a leap year?|366|365|364|367
+Nature|What is the tallest animal in the world?|Giraffe|African elephant|Ostrich|Camel
+Space|Which planet is closest to the Sun?|Mercury|Venus|Mars|Earth
+Science|What is the hardest natural substance?|Diamond|Quartz|Topaz|Granite
+Sport|In which sport would you perform a slam dunk?|Basketball|Volleyball|Tennis|Rugby
+Food|What is the main ingredient in guacamole?|Avocado|Pea|Lime|Cucumber
+Body|Which organ pumps blood around the body?|Heart|Liver|Lungs|Kidneys
+Science|At sea level, at what temperature does water boil in Celsius?|100 °C|90 °C|120 °C|80 °C
+Words|Who wrote “Romeo and Juliet”?|William Shakespeare|Charles Dickens|Jane Austen|Christopher Marlowe
+Geography|What is the currency of the United Kingdom?|Pound sterling|Euro|Dollar|Franc
+Nature|How many legs does a spider have?|8|6|10|12
+Space|What is the largest planet in our solar system?|Jupiter|Saturn|Neptune|Uranus
+Nature|Which country is the kangaroo native to?|Australia|New Zealand|South Africa|Argentina
+Food|What sweet food do honeybees make?|Honey|Maple syrup|Molasses|Treacle
+Geography|What is the capital of Italy?|Rome|Milan|Venice|Naples
+Science|What is the chemical symbol for gold?|Au|Ag|Go|Gd
+Geography|Which ocean lies between Europe and North America?|Atlantic|Pacific|Indian|Arctic
+Geography|What is the longest river in South America?|Amazon|Paraná|Orinoco|Magdalena
+History|Which ship sank on its first voyage in 1912 after hitting an iceberg?|Titanic|Lusitania|Britannic|Olympic
+Music|How many strings does a standard guitar have?|6|4|5|8
+Sport|How long is a standard football match, not counting added time?|90 minutes|80 minutes|100 minutes|60 minutes
+Nature|What are baby frogs called?|Tadpoles|Kits|Cubs|Fry
+History|Which country gave the Statue of Liberty to the United States?|France|United Kingdom|Spain|Italy
+Maths|What is the smallest prime number?|2|1|3|0
+Space|Which planet is most famous for its bright rings?|Saturn|Jupiter|Uranus|Neptune
+Sport|How many players does each basketball team have on court?|5|6|7|4
+Nature|Which bird is a traditional symbol of peace?|Dove|Eagle|Owl|Swan
+Words|What do you call a word that means the opposite of another?|Antonym|Synonym|Homonym|Acronym
+Science|Which metal is a liquid at room temperature?|Mercury|Lead|Tin|Aluminium
+Maths|What is the square root of 81?|9|8|7|18
+Geography|Which country is shaped like a boot?|Italy|Greece|Portugal|Chile
+Science|Who developed the theory of relativity?|Albert Einstein|Isaac Newton|Niels Bohr|Galileo Galilei
+Science|How many colours are in a rainbow, traditionally?|7|6|5|8
+Geography|What is the capital of Spain?|Madrid|Barcelona|Seville|Valencia
+Nature|What is the fastest land animal?|Cheetah|Lion|Pronghorn|Greyhound
+Geography|What is the largest country in the world by area?|Russia|Canada|China|United States
+Maths|What is 12 × 12?|144|124|132|154
+Space|Who was the first person to walk on the Moon?|Neil Armstrong|Buzz Aldrin|Yuri Gagarin|Michael Collins
+Food|Which fruit is traditionally used to make wine?|Grapes|Apples|Plums|Cherries
+Geography|What is the main language spoken in Brazil?|Portuguese|Spanish|French|Italian
+Sport|Which sport is played at Wimbledon?|Tennis|Cricket|Golf|Polo
+Body|How many teeth does an adult human usually have, including wisdom teeth?|32|28|30|36
+Nature|Which part of a plant does most of the photosynthesis?|Leaves|Roots|Stem|Flowers
+Nature|What does a caterpillar turn into?|A butterfly or moth|A beetle|A bee|A dragonfly
+Sport|How far is the penalty spot from the goal line?|12 yards (11 m)|10 yards (9 m)|15 yards (14 m)|18 yards (16 m)
+Geography|In which city is the Eiffel Tower?|Paris|Lyon|Brussels|Marseille
+Body|How many lungs does a human have?|2|1|3|4
+Nature|What do pandas mainly eat?|Bamboo|Eucalyptus|Fish|Berries
+Science|What force keeps us on the ground?|Gravity|Magnetism|Friction|Static electricity
+Geography|Which is the largest hot desert in the world?|Sahara|Gobi|Kalahari|Arabian
+
+#medium
+Geography|Counting cold deserts, what is the largest desert on Earth?|Antarctic Desert|Sahara|Arctic Desert|Gobi
+Science|Which element has the chemical symbol K?|Potassium|Krypton|Calcium|Phosphorus
+History|In which year did the Berlin Wall fall?|1989|1991|1987|1993
+Geography|What is the capital of Australia?|Canberra|Sydney|Melbourne|Perth
+Words|Who wrote the novel “1984”?|George Orwell|Aldous Huxley|Ray Bradbury|H. G. Wells
+Body|How many bones are in the adult human body?|206|212|198|230
+Space|Which planet has the shortest day?|Jupiter|Saturn|Earth|Mars
+Geography|What is the smallest country in the world by area?|Vatican City|Monaco|San Marino|Liechtenstein
+Science|Who discovered penicillin in 1928?|Alexander Fleming|Louis Pasteur|Marie Curie|Joseph Lister
+Body|What is the longest bone in the human body?|Femur|Tibia|Humerus|Fibula
+Science|What does DNA stand for?|Deoxyribonucleic acid|Dinucleic acid|Deoxyribose nitrogen acid|Dextronucleic acid
+Nature|Which is the only mammal capable of true flight?|Bat|Flying squirrel|Sugar glider|Colugo
+Geography|What is the capital of Canada?|Ottawa|Toronto|Vancouver|Montreal
+Sport|In which country did the ancient Olympic Games begin?|Greece|Italy|Egypt|Turkey
+Music|Which composer kept writing music after going deaf?|Ludwig van Beethoven|Wolfgang Amadeus Mozart|Johann Sebastian Bach|Frédéric Chopin
+Nature|How many hearts does an octopus have?|3|1|2|8
+Space|What is the hottest planet in our solar system?|Venus|Mercury|Mars|Jupiter
+Geography|Which country has the most natural lakes?|Canada|Russia|Finland|United States
+Body|What is the largest organ of the human body?|Skin|Liver|Brain|Lungs
+Art|Who painted “The Persistence of Memory”, with its melting clocks?|Salvador Dalí|René Magritte|Joan Miró|Max Ernst
+Science|Roughly how fast does light travel?|300,000 km per second|30,000 km per second|3,000 km per second|3 million km per second
+Geography|Which river flows through Baghdad?|Tigris|Euphrates|Jordan|Nile
+History|In which year did World War II end?|1945|1944|1946|1943
+Science|Which gas makes up most of Earth’s atmosphere?|Nitrogen|Oxygen|Carbon dioxide|Argon
+Sport|How many players does a rugby union team have on the field?|15|13|11|12
+Words|What is a group of crows called?|A murder|A parliament|A gaggle|A pride
+Science|Who was the first woman to win a Nobel Prize?|Marie Curie|Rosalind Franklin|Dorothy Hodgkin|Ada Lovelace
+Geography|What is the currency of Japan?|Yen|Won|Yuan|Ringgit
+Body|Which blood type is known as the universal donor?|O negative|AB positive|A negative|B positive
+Geography|What is the capital of Turkey?|Ankara|Istanbul|Izmir|Antalya
+Space|Which planet spins on its side?|Uranus|Neptune|Saturn|Mars
+Science|Who wrote “A Brief History of Time”?|Stephen Hawking|Carl Sagan|Richard Feynman|Brian Greene
+Nature|What is the national animal of Scotland?|Unicorn|Lion|Red deer|Golden eagle
+Geography|Which mountains mark the traditional boundary between Europe and Asia in Russia?|Ural Mountains|Caucasus|Altai Mountains|Carpathians
+Science|What is the chemical symbol for iron?|Fe|Ir|In|Fr
+Art|Who directed the 1975 film “Jaws”?|Steven Spielberg|George Lucas|Martin Scorsese|Francis Ford Coppola
+Space|What is the largest moon in our solar system?|Ganymede|Titan|Callisto|Europa
+Geography|In which salty lake do people float with almost no effort?|Dead Sea|Red Sea|Caspian Sea|Black Sea
+Body|Which vitamin does your skin make in sunlight?|Vitamin D|Vitamin C|Vitamin A|Vitamin B12
+Words|Who wrote “Pride and Prejudice”?|Jane Austen|Charlotte Brontë|Emily Brontë|Mary Shelley
+Geography|What is the highest mountain in Africa?|Kilimanjaro|Mount Kenya|Mount Stanley|Ras Dashen
+History|Which ancient wonder stood at Alexandria?|The Lighthouse (Pharos)|The Hanging Gardens|The Colossus|The Temple of Artemis
+Words|What is the fear of spiders called?|Arachnophobia|Agoraphobia|Claustrophobia|Acrophobia
+Sport|Which city hosted the first modern Olympic Games in 1896?|Athens|Paris|London|Rome
+Science|In computing, what does CPU stand for?|Central processing unit|Computer power unit|Central program utility|Core processing unit
+Science|Who described the three laws of motion?|Isaac Newton|Galileo Galilei|Johannes Kepler|Albert Einstein
+Geography|What is the capital of Brazil?|Brasília|Rio de Janeiro|São Paulo|Salvador
+Maths|How many sides does a dodecagon have?|12|10|14|20
+Food|Which fruit carries its seeds on the outside?|Strawberry|Raspberry|Kiwi|Fig
+Nature|What colour is a polar bear’s skin?|Black|White|Pink|Grey
+Geography|In which country is Machu Picchu?|Peru|Bolivia|Chile|Ecuador
+Music|Which instrument family does the saxophone belong to?|Woodwind|Brass|Percussion|Strings
+Science|Which part of the cell is called its powerhouse?|Mitochondrion|Nucleus|Ribosome|Golgi apparatus
+Nature|What is a baby kangaroo called?|Joey|Kit|Pup|Calf
+Science|At what temperature does water boil in Fahrenheit?|212 °F|180 °F|200 °F|220 °F
+Sport|How wide is a regulation football goal?|7.32 m (8 yards)|6.5 m (7 yards)|8 m (8.75 yards)|7 m (7.65 yards)
+Words|Who created the detective Hercule Poirot?|Agatha Christie|Arthur Conan Doyle|Dorothy L. Sayers|Georges Simenon
+Space|How many moons does Mars have?|2|0|1|4
+Space|What is the smallest planet in our solar system?|Mercury|Mars|Venus|Pluto
+Geography|In which modern country was ancient Troy?|Turkey|Greece|Italy|Cyprus
+Body|Which organ makes insulin?|Pancreas|Liver|Kidney|Spleen
+
+#hard
+Geography|What is the capital of Kazakhstan?|Astana|Almaty|Bishkek|Tashkent
+Science|Which metal has the highest melting point?|Tungsten|Titanium|Platinum|Iron
+Space|In which year did the first human go into space?|1961|1957|1965|1969
+Music|Who composed “The Four Seasons”?|Antonio Vivaldi|Johann Sebastian Bach|George Frideric Handel|Joseph Haydn
+Body|What is the smallest bone in the human body?|Stapes|Incus|Malleus|Hyoid
+Geography|Which country is usually said to have the most islands?|Sweden|Indonesia|Philippines|Japan
+Geography|What is the longest river in Europe?|Volga|Danube|Rhine|Dnieper
+Space|Which planet has a moon called Triton?|Neptune|Uranus|Saturn|Jupiter
+Words|Who wrote “One Hundred Years of Solitude”?|Gabriel García Márquez|Jorge Luis Borges|Isabel Allende|Mario Vargas Llosa
+Geography|What is the capital of New Zealand?|Wellington|Auckland|Christchurch|Hamilton
+History|In which year did the Chernobyl disaster happen?|1986|1979|1991|1984
+Words|What does a philatelist collect?|Stamps|Coins|Butterflies|Maps
+Science|Which gas is the third most common in Earth’s atmosphere, at about 0.9%?|Argon|Carbon dioxide|Neon|Helium
+Words|Which is the only letter that does not appear in any US state name?|Q|Z|X|J
+History|Who was the first emperor of Rome?|Augustus|Julius Caesar|Nero|Tiberius
+Geography|What is the national language of Pakistan?|Urdu|Punjabi|Hindi|Pashto
+Art|Who painted “The Garden of Earthly Delights”?|Hieronymus Bosch|Pieter Bruegel the Elder|Jan van Eyck|Albrecht Dürer
+Space|About how old is the universe?|13.8 billion years|4.5 billion years|20 billion years|100 billion years
+Geography|What is the deepest lake in the world?|Lake Baikal|Lake Tanganyika|Caspian Sea|Lake Superior
+History|Which treaty formally ended World War I with Germany?|Treaty of Versailles|Treaty of Paris|Peace of Westphalia|Treaty of Utrecht
+Sport|In chess, which piece can only ever move diagonally?|Bishop|Rook|Knight|Queen
+Science|What is the SI unit of electrical resistance?|Ohm|Volt|Ampere|Watt
+Geography|Which country has the longest coastline?|Canada|Russia|Indonesia|Australia
+History|Who was the Greek goddess of wisdom?|Athena|Aphrodite|Hera|Artemis
+Geography|What is the capital of Morocco?|Rabat|Casablanca|Marrakesh|Fez
+Nature|Which bird lays the largest eggs?|Ostrich|Emu|Albatross|Cassowary
+Science|What is the most common element in the universe?|Hydrogen|Helium|Oxygen|Carbon
+Art|Who painted the ceiling of the Sistine Chapel?|Michelangelo|Raphael|Leonardo da Vinci|Sandro Botticelli
+History|Which African country was never colonised, apart from a short Italian occupation?|Ethiopia|Nigeria|Kenya|Ghana
+Science|In E = mc², what does the c stand for?|The speed of light|Electric charge|A constant mass|Calories
+Geography|What is the largest island in the world that is not a continent?|Greenland|New Guinea|Borneo|Madagascar
+Geography|Which city is called the City of a Hundred Spires?|Prague|Vienna|Budapest|Kraków
+Geography|In which country is the ancient city of Petra?|Jordan|Egypt|Syria|Lebanon
+Music|Who wrote the opera “The Magic Flute”?|Wolfgang Amadeus Mozart|Giuseppe Verdi|Richard Wagner|Giacomo Puccini
+Maths|Which of these is a prime number?|97|91|87|93
+History|The Rosetta Stone was the key to reading which script?|Egyptian hieroglyphs|Linear B|Cuneiform|Maya glyphs
+History|Whose expedition was the first to sail around the world, finishing after his death?|Ferdinand Magellan|Vasco da Gama|Francis Drake|Christopher Columbus
+Space|Which planet has the most known moons?|Saturn|Jupiter|Uranus|Neptune
+Geography|What is the capital of Nigeria?|Abuja|Lagos|Kano|Ibadan
+History|Which philosopher wrote “The Republic”?|Plato|Aristotle|Socrates|Plutarch
+Science|What is the chemical formula of table salt?|NaCl|KCl|NaOH|CaCO₃
+History|Who is the longest-reigning British monarch?|Elizabeth II|Victoria|George III|Henry VIII
+Words|What word describes animals that are active at dawn and dusk?|Crepuscular|Nocturnal|Diurnal|Matutinal
+Geography|In which city is the Alhambra palace?|Granada|Seville|Córdoba|Toledo
+Music|Which instrument was Louis Armstrong famous for playing?|Trumpet|Saxophone|Trombone|Clarinet
+Science|How many elements are in the periodic table?|118|108|112|120
+Geography|Which ocean current keeps western Europe warmer than its latitude suggests?|Gulf Stream|Humboldt Current|Kuroshio Current|Agulhas Current
+Geography|Which country’s flag shows a cedar tree?|Lebanon|Cyprus|Israel|Syria
+Science|Who developed the first widely used polio vaccine in 1955?|Jonas Salk|Albert Sabin|Edward Jenner|Louis Pasteur
+Nature|What is the largest species of shark?|Whale shark|Great white shark|Basking shark|Tiger shark
+Sport|Which country hosted the first FIFA World Cup in 1930?|Uruguay|Brazil|Italy|Argentina
+Sport|How high is the crossbar of a regulation football goal?|2.44 m (8 ft)|2.24 m|2.64 m|2.34 m
+Sport|Which country won the first FIFA Women’s World Cup in 1991?|United States|Norway|Germany|China
+History|Which country was formerly called Persia?|Iran|Iraq|Turkey|Afghanistan
+History|In which year did the Wright brothers make the first powered flight?|1903|1899|1908|1911
+Body|What is the medical name for the collarbone?|Clavicle|Scapula|Sternum|Patella
+Nature|Which sea creature has blue, copper-based blood?|Octopus|Shark|Jellyfish|Sea urchin
+Words|What is a word made from initials and said as a word, like NASA?|Acronym|Initialism|Abbreviation|Portmanteau
+History|Which civilisation built Machu Picchu?|Inca|Maya|Aztec|Olmec
+Body|Which body organ is the largest inside the body?|Liver|Lungs|Brain|Stomach
+
+#expert
+Geography|What is the capital of Bhutan?|Thimphu|Paro|Kathmandu|Punakha
+Science|Which element’s name comes from the Greek word for “stranger”?|Xenon|Krypton|Neon|Argon
+Geography|Which country’s national flag is neither rectangular nor square?|Nepal|Bhutan|Sri Lanka|Mongolia
+Maths|Whose famous “Last Theorem” was finally proven by Andrew Wiles in the 1990s?|Pierre de Fermat|Leonhard Euler|Carl Friedrich Gauss|Bernhard Riemann
+Words|What is the small dot over a lowercase “i” called?|Tittle|Serif|Kern|Ligature
+Space|Which planet takes longer to spin once on its axis than to orbit the Sun?|Venus|Mercury|Mars|Neptune
+History|The Treaty of Tordesillas (1494) split newly found lands between which two countries?|Spain and Portugal|Spain and France|England and France|Portugal and the Netherlands
+Geography|What is the smallest country in Africa by area?|Seychelles|The Gambia|São Tomé and Príncipe|Mauritius
+Science|Who first measured Earth’s circumference, around 240 BC?|Eratosthenes|Archimedes|Ptolemy|Pythagoras
+Nature|Which bird is famous for being able to fly backwards?|Hummingbird|Kingfisher|Swift|Sunbird
+Geography|In which country is the city of Timbuktu?|Mali|Niger|Mauritania|Chad
+Music|Who composed the “Gymnopédies”?|Erik Satie|Claude Debussy|Maurice Ravel|Gabriel Fauré
+Geography|What is the longest river that flows entirely within one country?|Yangtze|Mississippi|Volga|Lena
+Words|What does the Japanese word “tsundoku” describe?|Buying books and leaving them unread|The joy of tidying up|Walking in a forest to relax|Finding beauty in imperfection
+Space|What was the first animal to orbit the Earth?|Laika the dog|Ham the chimpanzee|Albert II the monkey|Félicette the cat
+Geography|Counting overseas territories, which country spans the most time zones?|France|Russia|United States|United Kingdom
+Science|What was the supercontinent that existed about 300 million years ago called?|Pangaea|Gondwana|Rodinia|Laurasia
+History|Who led the first expedition to reach the South Pole?|Roald Amundsen|Robert Falcon Scott|Ernest Shackleton|Richard Byrd
+Maths|In the Fibonacci sequence, which number comes after 13 and 21?|34|33|42|29
+Words|Which language family does Basque belong to?|None: it is a language isolate|Romance|Finno-Ugric|Celtic
+Space|Which planet was predicted by mathematics before anyone saw it?|Neptune|Uranus|Pluto|Saturn
+Words|What is a group of owls called?|A parliament|A murder|A congress|A coven
+Geography|What is the capital of Burkina Faso?|Ouagadougou|Bamako|Niamey|Lomé
+Art|Who sculpted “The Thinker”?|Auguste Rodin|Michelangelo|Donatello|Antonio Canova
+Music|How many semitones are in an octave?|12|8|7|10
+History|Mansa Musa, often called the richest person in history, ruled which empire?|Mali Empire|Songhai Empire|Ghana Empire|Ottoman Empire
+Science|What is the most common element in Earth’s crust?|Oxygen|Silicon|Aluminium|Iron
+Maths|Which year is written MCMXC in Roman numerals?|1990|1910|2090|1940
+Words|Who wrote “The Master and Margarita”?|Mikhail Bulgakov|Fyodor Dostoevsky|Boris Pasternak|Vladimir Nabokov
+Science|What is the densest naturally occurring element?|Osmium|Iridium|Platinum|Lead
+Nature|Which animal has fingerprints almost identical to a human’s?|Koala|Chimpanzee|Gorilla|Raccoon
+History|In which year did Constantinople fall to the Ottomans?|1453|1492|1204|1517
+Words|Which Shakespeare play features the magician Prospero?|The Tempest|A Midsummer Night’s Dream|The Winter’s Tale|Twelfth Night
+Words|What does the S in SCUBA stand for?|Self-contained|Submersible|Surface|Sub-aqua
+Science|Which mineral scores 1 on the Mohs hardness scale?|Talc|Gypsum|Calcite|Quartz
+History|Who became the world’s first female prime minister, in 1960?|Sirimavo Bandaranaike|Indira Gandhi|Golda Meir|Margaret Thatcher
+Geography|Which city was once called Edo?|Tokyo|Kyoto|Osaka|Nagoya
+Science|Roughly how fast does sound travel through air at 20 °C?|343 m/s|243 m/s|443 m/s|1,235 m/s
+Geography|What is the driest non-polar desert in the world?|Atacama|Sahara|Namib|Gobi
+Space|Which is the nearest large spiral galaxy to the Milky Way?|Andromeda|Whirlpool|Sombrero|Large Magellanic Cloud
+Sport|In which country did the earliest known form of chess, chaturanga, begin?|India|Persia|China|Egypt
+Science|What colour are aircraft “black box” flight recorders actually painted?|Orange|Black|Yellow|Red
+Space|Which planet has the fastest winds measured in the solar system?|Neptune|Jupiter|Saturn|Uranus
+Nature|Which is the only continent with no native ants?|Antarctica|Australia|Europe|South America
+Science|Who proposed the uncertainty principle?|Werner Heisenberg|Erwin Schrödinger|Paul Dirac|Max Planck
+Body|What is the longest muscle in the human body?|Sartorius|Gluteus maximus|Rectus femoris|Biceps femoris
+Art|Who painted “Las Meninas”?|Diego Velázquez|Francisco Goya|El Greco|Bartolomé Murillo
+Science|Which element was found in the Sun’s light before it was found on Earth?|Helium|Hydrogen|Neon|Argon
+Geography|What is the capital of Mongolia?|Ulaanbaatar|Astana|Bishkek|Hohhot
+Sport|In which year was the first official international football match, Scotland v England?|1872|1863|1888|1901
+Sport|The Panenka penalty is named after a player from which country?|Czechoslovakia|Hungary|Poland|Yugoslavia
+Geography|What is the capital of Eritrea?|Asmara|Djibouti|Mogadishu|Addis Ababa
